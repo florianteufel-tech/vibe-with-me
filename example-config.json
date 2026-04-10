@@ -1,0 +1,42 @@
+{
+  "title": "xentral-ki-erp",
+  "brand": {
+    "name": "xentral",
+    "dark": "#283a50",
+    "accent": "#5b64ee",
+    "green": "#19e49b",
+    "pink": "#ee5bad",
+    "cyan": "#1cdcdd",
+    "light": "#f2f3fd",
+    "white": "#ffffff",
+    "website": "xentral.com"
+  },
+  "slides": [
+    {
+      "layout": "cover-light",
+      "headline": "Xentral<br><span class='gradient-text'>KI-ERP</span>",
+      "body": "Ein ERP, das mitdenkt. Und mitarbeitet."
+    },
+    {
+      "layout": "step",
+      "stepLabel": "Kunde sendet Frage per E-Mail",
+      "headline": "Stornierung einer Bestellung"
+    },
+    {
+      "layout": "step",
+      "stepLabel": "Anfrage erreicht deinen Xentral Agent Hub",
+      "headline": "KI analysiert den Fall",
+      "badges": ["Fall analysiert", "Aufgabe angelegt", "E-Mail vorbereitet"]
+    },
+    {
+      "layout": "step",
+      "stepLabel": "KI-Agenten analysieren und bearbeiten die Anfrage",
+      "headline": "Ausfuehren mit einem Klick"
+    },
+    {
+      "layout": "cta-light",
+      "headline": "Alle Xentral KI Updates auf unserer Website",
+      "ctaUrl": "www.xentral.com"
+    }
+  ]
+}

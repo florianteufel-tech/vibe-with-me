@@ -1,0 +1,10 @@
+{
+  "name": "linkedin-carousel-generator",
+  "version": "1.0.0",
+  "description": "Generate branded LinkedIn carousels (PDF + PNG) from a simple JSON config",
+  "private": true,
+  "dependencies": {
+    "playwright": "^1.50.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
